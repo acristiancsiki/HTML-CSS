@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Righteous&display=swap');
 
 /* Clear formatting*/
 
@@ -31,7 +30,8 @@ h1, h2 {
 }
 
 #logo {
-    font-size: 200%;
+    font-size: 150%;
+    font-family: Lobster, Helvetica, sans-serif;
     margin-left: 10px;
     height: 80px;
     display: flex;
@@ -81,7 +81,7 @@ h1, h2 {
     color: inherit;
 }
 
-#menu, #logo {
+#menu, #logo, #why-us {
     line-height: 75%;
     background-color:#A9A9A9;
 }
@@ -109,3 +109,102 @@ h1, h2 {
     overflow: hidden;
 }
 
+#why-us {
+    height: 600px;
+    padding-top: 30px;
+    font-family: Righteous, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: x-large;
+    color: #3a3a3a;
+}
+
+#showcase {
+    
+    padding-top: 30px;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    list-style: none;
+    letter-spacing: 4px;
+    align-items: center;
+    align-content: center;
+}
+
+
+#center-showcase {
+    width: 100%;
+    line-height: 20px;
+    clear:both;
+    margin-bottom: 50px;
+    font-size: large;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+    background: url('../images/center-showcase.png') no-repeat center center;
+    
+}
+
+.left-showcase-heading {
+    width: 80%;
+    line-height: 20px;
+    clear:both;
+    margin-bottom: 50px;
+    margin-left: 30px;
+    font-size: large;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.right-showcase-heading {
+    width: 85%;
+    line-height: 20px;
+    clear:both;
+    margin-bottom: 50px;
+    margin-right: 30px;
+    font-size: large;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+}
+
+.center-showcase-heading {
+    width: 80%;
+    line-height: 20px;
+    clear:both;
+    margin-bottom: 50px;
+    margin-left: 30px;
+    font-size: large;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.right-showcase-heading h2{
+    text-align: right;
+}
+
+.right-showcase-heading p{
+    text-align: right;
+}
+
+hr {
+    border-top: 1px solid #3a3a3a;
+    width: 100%;
+    margin: 5px 0;
+}
+
+#about-coffee{
+    text-align: center;
+    font-family: Lobster, Helvetica, sans-serif;
+    font-weight: 300;
+    color: #3a3a3a;
+    margin: 20px 0;
+    font-size: 200%;
+}
