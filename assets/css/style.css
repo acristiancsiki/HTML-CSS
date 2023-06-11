@@ -200,6 +200,15 @@ hr {
     margin: 5px 0;
 }
 
+#middle-hr{
+    border-top: 1px solid #3a3a3a;
+    background-color:#A9A9A9;
+    width: 80%;  
+    margin-right: auto;  
+    margin-left: auto;  
+    border-color: #3a3a3a;  
+}
+
 #about-coffee{
     text-align: center;
     font-family: Lobster, Helvetica, sans-serif;
@@ -207,4 +216,37 @@ hr {
     color: #3a3a3a;
     margin: 20px 0;
     font-size: 200%;
+}
+
+/* footer */
+
+footer {
+    height: 150px;
+    background-color:#A9A9A9;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 260%;
+    margin: 1%;
+ 
+    color: #3a3a3a;
+}
+
+#follow-us {
+    padding-top: 10px;
+    text-align: center;
+    font-size: 150%;
+}
+
+#copyright {
+    text-align: center;
+    font-size: 80%;
 }
