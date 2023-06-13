@@ -250,3 +250,39 @@ footer {
     text-align: center;
     font-size: 80%;
 }
+
+/* Media queries */
+
+@media screen and (max-width: 1200px) {
+    #why-us {
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    } 
+
+    #left-showcase, #right-showcase {
+        width: 100%;
+        margin: 0 auto;
+        padding: 0;
+        text-align: center;
+    }
+
+    #center-showcase {
+        clear:both;
+        width: 100%;
+        padding: 0;
+    }
+
+    hr {
+        display: none;
+    }
+
+    #showcase {
+        display: block;
+        text-align: center;
+    }
+
+    h2 {
+        line-height: 150%;
+    }
+}
