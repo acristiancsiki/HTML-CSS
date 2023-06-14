@@ -32,20 +32,20 @@ Love coffee it is a website for a startup coffee shop, offering basic informatio
 
  ![Love Coffee Main Menu](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/topmenu.PNG)
 
- ### Showcase area
+* Showcase area
     - The showcase area was intentionally left minimalistic
     - The simplicity of the showcase intends to convince each visitor about the website's business sector
     - In the showcase area there is a video animation about a coffee cup which keeps rotating
 
 ![Love Coffee Showcase Area](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/coffe-mug-showcase.PNG)
 
-To log into the Heroku toolbelt CLI:
+* About the coffee
+    - This section contains a few reasons why the visitor would purchase products from this business or return the business
+    - The content it is split in 3 areas, each centered individually to allow a responsive navigation
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+![Love Coffee Showcase Area](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/aboutus.PNG)
+
+
 
 You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
 
