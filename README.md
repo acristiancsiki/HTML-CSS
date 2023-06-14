@@ -37,7 +37,7 @@ Love coffee it is a website for a startup coffee shop, offering basic informatio
     - The simplicity of the showcase intends to convince each visitor about the website's business sector
     - In the showcase area there is a video animation about a coffee cup which keeps rotating
 
-![Love Coffee Showcase Area](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/coffee-mug-showcase.PNG)
+![Love Coffee Showcase Area](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/coffe-mug-showcase.PNG)
 
 To log into the Heroku toolbelt CLI:
 
