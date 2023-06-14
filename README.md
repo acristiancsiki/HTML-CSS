@@ -55,4 +55,5 @@ Love coffee it is a website for a startup coffee shop, offering basic informatio
     - This page maintains a minimalist aprroach as well to key offerings
     - A few coffee types are presented, among with a basic description and their pricing
     - The images of the coffess use a glowing animation
+    - Beside the main content of the page, the top menu and the footer have been maintained consistent with the ones from the index page
 
