@@ -69,6 +69,12 @@ Love coffee it is a website for a startup coffee shop, offering basic informatio
 
 ![Love Coffee Contant](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/contact.PNG)
 
+ ### Success
     - Upon a successful GET action on the contact from, the website will redirect to a **SUCCESS** page
 
 ![Love Coffee after a successful contact form submission](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/success.PNG)
+
+ ### 404
+    - If the user types a page that doesn't exists, that it is redirected to a safe 404 page as seen below
+
+![Love Coffee after a successful contact form submission](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/fourzerofour.PNG)
