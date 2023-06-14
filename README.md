@@ -6,23 +6,13 @@ Love coffee it is a website for a startup coffee shop, offering basic informatio
 
 ![alt text](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/readme-showcase.PNG)
 
-## Codeanywhere Reminders
+## Technologies used
+HTML
+CSS
+Font Awesome icons
+Google fonts
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
 
-`python3 -m http.server`
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
-
-`http_server`
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
 
 To log into the Heroku toolbelt CLI:
 
