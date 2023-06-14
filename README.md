@@ -1,4 +1,5 @@
-![Love Coffee logo](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/logo.png) #Love Coffee
+# Love Coffee
+![Love Coffee logo](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/logo.png) 
 
 Welcome,
 
