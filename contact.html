@@ -46,7 +46,6 @@
             <div class="opening-hours section">
                 <div class="header">
                     <h2>Opening hours</h2>
-
                 </div>
                <table class="opening-hours-table">
                    <tr id="Monday" itemprop="openingHours" title="Open Monday at 7am to 7pm">
@@ -92,20 +91,32 @@
                        <td class="closes">18:00</td>
                    </tr>
                </table>
-                              <script>
-                   (function(e, t, n, r) {
-                       if (e) return;
-                       t._appt = true;
-                       var i = n.createElement(r),
-                           s = n.getElementsByTagName(r)[0];
-                       i.async = true;
-                       i.src = '//dje0x8zlxc38k.cloudfront.net/loaders/s-min.js';
-                       s.parentNode.insertBefore(i, s)
-                   })(window._appt, window, document, "script")
-               </script>
            </div>
             </div>
             <div class="contact-us">
+                <div class="container">
+                    <form action="action_page.php">
+                  
+                      <label for="name">Name</label>
+                      <input type="text" id="name" name="name" placeholder="What is your name?" required autofocus>
+                  
+                      <label for="email">Email</label>
+                      <input type="email" id="emailAddress" name="email" placeholder="What is your email address?" required>
+                  
+                      <label for="dept">Department</label>
+                      <select id="dept" name="dept">
+                        <option value="Deliveries">Deliveries</option>
+                        <option value="Orders">Orders</option>
+                        <option value="Shop">Shop</option>
+                      </select>
+                  
+                      <label for="subject">Message</label>
+                      <textarea id="subject" name="subject" placeholder="What would you like to tell us?" style="height:200px" required></textarea>
+                  
+                      <input type="submit" value="Submit">
+                  
+                    </form>
+                  </div>
             </div>
         </section>
     </main>
