@@ -4,7 +4,7 @@ Welcome,
 
 Love coffee it is a website for a startup coffee shop, offering basic information about what the business sells, when it is open, how can you get in touch with it or pass by, as well as a few reasons why customers would enjoy the "Love coffee" shop.
 
-https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/readme-showcase.png
+![alt text](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/readme-showcase.png)
 
 ## Codeanywhere Reminders
 
