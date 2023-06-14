@@ -50,3 +50,9 @@ Love coffee it is a website for a startup coffee shop, offering basic informatio
     - Below the social icons, there is a copyright statement
 
 ![Love Coffee Showcase Area](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/footer.PNG)
+
+### Coffee Menu paage
+    - This page maintains a minimalist aprroach as well to key offerings
+    - A few coffee types are presented, among with a basic description and their pricing
+    - The images of the coffess use a glowing animation
+
