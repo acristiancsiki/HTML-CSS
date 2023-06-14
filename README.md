@@ -1,10 +1,10 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![Love Coffee logo](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/logo.png)
 
 Welcome,
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+Love coffee it is a website for a startup coffee shop, offering basic information about what the business sells, when it is open, how can you get in touch with it or pass by, as well as a few reasons why customers would enjoy the "Love coffee" shop.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/readme-showcase.png
 
 ## Codeanywhere Reminders
 
