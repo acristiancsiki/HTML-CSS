@@ -483,10 +483,16 @@ input[type=text], select, textarea {
 
   .card {
     background: #A9A9A9;
-    padding: 60px;
+    padding: 140px;
     border-radius: 4px;
-    display: inline-block;
     margin: 0 auto;
+    width: 50%;
+    display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
   }
 
 .card h1 {
@@ -502,6 +508,7 @@ input[type=text], select, textarea {
     font-family: "Nunito Sans", "Helvetica Neue", sans-serif;
     font-size:20px;
     margin: 0;
+    text-align: center;
 }
 
 .card i {
@@ -509,12 +516,29 @@ input[type=text], select, textarea {
     font-size: 100px;
     line-height: 200px;
     margin-left:-15px;
+    width: 100%;
+    margin: 25%;
 }
 
 .card body {
     text-align: center;
     padding: 40px 0;
     background: #A9A9A9;
+}
+
+.sbody {
+    background-color: #A9A9A9;
+    height: 76vh;
+
+}
+
+.card-cube {
+    border-radius:200px; 
+    height: 200px;
+    width: 200px; 
+    background: #586671; 
+    margin: 0 auto;
+    
 }
 
 /* Media queries */
