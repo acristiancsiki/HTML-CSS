@@ -68,3 +68,7 @@ Love coffee it is a website for a startup coffee shop, offering basic informatio
         - Beside the main content of the page, the top menu and the footer are the same with the ones from the index page
 
 ![Love Coffee Contant](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/contact.PNG)
+
+    - Upon a successful GET action on the contact from, the website will redirect to a **SUCCESS** page
+
+![Love Coffee after a successful contact form submission](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/success.PNG)
