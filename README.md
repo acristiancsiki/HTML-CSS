@@ -45,10 +45,8 @@ Love coffee it is a website for a startup coffee shop, offering basic informatio
 
 ![Love Coffee Showcase Area](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/aboutus.PNG)
 
+* Footer
+    - The footer area contains the business social media link which open in a new browser window if clicked
+    - Below the social icons, there is a copyright statement
 
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+![Love Coffee Showcase Area](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/footer.PNG)
