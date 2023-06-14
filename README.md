@@ -51,10 +51,20 @@ Love coffee it is a website for a startup coffee shop, offering basic informatio
 
 ![Love Coffee Showcase Area](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/footer.PNG)
 
-### Coffee Menu paage
+### Coffee Menu page
     - This page maintains a minimalist aprroach as well to key offerings
     - A few coffee types are presented, among with a basic description and their pricing
     - The images of the coffess use a glowing animation
-    - Beside the main content of the page, the top menu and the footer have been maintained consistent with the ones from the index page
+    - Beside the main content of the page, the top menu and the footer are the same with the ones from the index page
 
 ![Love Coffee Menu](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/caffee-menu.PNG)
+
+### Contact
+    - This page has a few features:
+        - It provides visitors with opening hours for the coffee shop
+        - It allows visitors to locate on a map the coffee shop
+        - It provides a way for visitors to engage with various business departments
+        - The contact form has basic content validation in place, such as email format, empty characters and other
+        - Beside the main content of the page, the top menu and the footer are the same with the ones from the index page
+
+![Love Coffee Contant](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/contact.PNG)
