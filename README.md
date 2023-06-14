@@ -12,7 +12,13 @@ CSS
 Font Awesome icons
 Google fonts
 
-
+## User stories
+* While I am a first time visitor, I would like to learn more about the business
+* While I am a first time visitor, I would like to find out how can I reach the shop
+* While I am a first time visitor, I would like to find what opening hours does the shop has
+* While I am a first time visitor, I would like to ask some questions directed to various business departments
+* While I am a first time visitor, I would like to find out what does the shop sells
+* While I am mobile user, I would like the coffee shop website to be responsive, irrespective of which mobile or tabled device I use
 
 To log into the Heroku toolbelt CLI:
 
