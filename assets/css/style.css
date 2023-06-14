@@ -263,6 +263,7 @@ footer {
     max-width: 1200px;
     width: 90%;
     margin: auto;
+    background-color: #A9A9A9;
   }
 
   .food-menu-heading {
@@ -277,6 +278,7 @@ footer {
     display: flex;
     flex-wrap: wrap;
     padding: 50px 0px 30px 0px;
+    background: #A9A9A9;
   }
   
   .food-menu-container img {
@@ -295,7 +297,7 @@ footer {
   .food-menu-item {
     display: flex;
     flex: 1 1 600px;
-    justify-content: space-evenly;
+    justify-content: flex-start;
     margin-bottom: 3rem;
   }
   
@@ -479,7 +481,7 @@ input[type=text], select, textarea {
 
   .container {
     border-radius: 5px;
-    background-color: #f2f2f2;
+    background-color: #A9A9A9;
     padding: 20px;
   }
 
@@ -631,7 +633,8 @@ input[type=text], select, textarea {
       top: -9999em;
       left: -9999em;
   }
-      
+
+     
   @keyframes bgshadow {
     0% {
       box-shadow: inset -160px 160px 0px 5px rgba(0, 0, 0, 0.4);
