@@ -1,4 +1,4 @@
-![Love Coffee logo](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/logo.png)
+![Love Coffee logo](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/logo.png) #Love Coffee
 
 Welcome,
 
@@ -13,6 +13,14 @@ Love coffee it is a website for a startup coffee shop, offering basic informatio
 * Google fonts
 
 ## User stories
+* While I am a first time visitor, I would like to learn more about the business
+* While I am a first time visitor, I would like to find out how can I reach the shop
+* While I am a first time visitor, I would like to find what opening hours does the shop has
+* While I am a first time visitor, I would like to ask some questions directed to various business departments
+* While I am a first time visitor, I would like to find out what does the shop sells
+* While I am mobile user, I would like the coffee shop website to be responsive, irrespective of which mobile or tabled device I use
+
+## Charasteristics
 * While I am a first time visitor, I would like to learn more about the business
 * While I am a first time visitor, I would like to find out how can I reach the shop
 * While I am a first time visitor, I would like to find what opening hours does the shop has
