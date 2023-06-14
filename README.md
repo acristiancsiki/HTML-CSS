@@ -24,13 +24,19 @@ Love coffee it is a website for a startup coffee shop, offering basic informatio
 ## Charasteristics
 ### Home page
 * Navigation
- - The menu it is horizontally set on the top of the page
- - The menu links are situated on the right side of the menu and lead to various other sections of the website, such Menu and Contact pages
- - Aside with the menu links, situated on the left side of the menu it is the logo and the business name
- - The links have animated hover effect
- - On mobile devices, the menu gets responsive and the menu links shift vertically ordered and centered under the logo
+    - The menu it is horizontally set on the top of the page
+    - The menu links are situated on the right side of the menu and lead to various other sections of the website, such Menu and Contact pages
+    - Aside with the menu links, situated on the left side of the menu it is the logo and the business name
+    - The links have animated hover effect
+    - On mobile devices, the menu gets responsive and the menu links shift vertically ordered and centered under the logo
 
  ![Love Coffee Main Menu](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/topmenu.PNG)
+
+ ### Showcase area
+    - The showcase area was intentionally left minimalistic to convince without any doubt any visitor about the business the website it is into
+    - In the showcase area there is a video animation about a coffee cup which keeps rotating
+
+![Love Coffee Showcase Area](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/readme-showcase.PNG)
 
 To log into the Heroku toolbelt CLI:
 
