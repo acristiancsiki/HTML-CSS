@@ -7,10 +7,10 @@ Love coffee it is a website for a startup coffee shop, offering basic informatio
 ![alt text](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/readme-showcase.PNG)
 
 ## Technologies used
-HTML
-CSS
-Font Awesome icons
-Google fonts
+* HTML
+* CSS
+* Font Awesome icons
+* Google fonts
 
 ## User stories
 * While I am a first time visitor, I would like to learn more about the business
