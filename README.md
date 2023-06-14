@@ -57,3 +57,4 @@ Love coffee it is a website for a startup coffee shop, offering basic informatio
     - The images of the coffess use a glowing animation
     - Beside the main content of the page, the top menu and the footer have been maintained consistent with the ones from the index page
 
+![Love Coffee Menu](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/caffee-menu.PNG)
