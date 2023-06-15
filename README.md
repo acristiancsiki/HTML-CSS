@@ -101,3 +101,7 @@ Love coffee it is a website for a startup coffee shop, offering basic informatio
 
     - 404 page HTML
 ![Love Coffee 404 page HTML validation confirmation](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/fourzerofour-page-validator.PNG)  
+
+### Accessibility
+* For the accessibility test, the Wave web accessibility tool has been used to validate the structure and review standard recommendations
+![Love Coffee accessibility tests results](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/accessibility-tests-report.PNG)  
