@@ -134,3 +134,7 @@ Love coffee it is a website for a startup coffee shop, offering basic informatio
 
 * Mentor
     - Last but not least, tremendous appreciation to CodeInstitute mentor Aleksei Konovalov [Aleksei Konovalov Git page](https://github.com/lexach91) for all his dedication to guide and coach me during the development, testing and deployment process.
+
+## Wireframes
+### Home page desktop wireframe
+![Love Coffee Home page desktop wireframe](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/wireframe-main-desktop.PNG)  
