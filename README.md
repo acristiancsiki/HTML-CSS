@@ -80,8 +80,12 @@ Love coffee it is a website for a startup coffee shop, offering basic informatio
 ![Love Coffee after a successful contact form submission](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/fourzerofour.PNG)
 
 ## Testing
-
+### CSS & HTML
 * During the development Visual Studio Code has been used for testing and debugging
 * After the development the W3C SS Validation service has been used for CSS checks
 
+    - CSS
 ![Love Coffee clean css validation confirmation](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/css-validator.PNG)
+
+    - Home page HTML
+![Love Coffee clean css validation confirmation](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/home-validator.PNG)   
