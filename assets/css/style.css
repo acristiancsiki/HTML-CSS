@@ -662,7 +662,7 @@
          text-align: center;
          margin: 0 auto;
     }
-     h2 {
+     h1, h2 {
          line-height: 150%;
     }
      #menu {
