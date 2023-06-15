@@ -78,3 +78,10 @@ Love coffee it is a website for a startup coffee shop, offering basic informatio
     - If the user types a page that doesn't exists, that it is redirected to a safe 404 page as seen below
 
 ![Love Coffee after a successful contact form submission](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/fourzerofour.PNG)
+
+## Testing
+
+* During the development Visual Studio Code has been used for testing and debugging
+* After the development the W3C SS Validation service has been used for CSS checks
+
+![Love Coffee clean css validation confirmation](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/css-validator.PNG)
