@@ -123,7 +123,7 @@ Love coffee it is a website for a startup coffee shop, offering basic informatio
     - Part of the contact page structure, such as elements design were taken from [W3Schools Contact Form](https://www.w3schools.com/howto/howto_css_contact_form.asp)
 
 * Media
-    - Licensed showcase video was purchased from [ShutterStock](https://www.shutterstock.com/video/clip-1086348824-cup-fresh-aromatic-coffee-crema-top-view)
+    - Licensed showcase video was obtained from [ShutterStock](https://www.shutterstock.com/video/clip-1086348824-cup-fresh-aromatic-coffee-crema-top-view)
     - Free menu graphics were taken from Unsplash.com as:
         - Americano image designer: Gerson Cifuentes [Unsplash americano image](https://unsplash.com/photos/JNhaaPEz3FY)
         - Cappuccino image designer: Harris Vo [Unsplash cappuccino image](https://unsplash.com/photos/JpQGEArmG0I)
