@@ -109,3 +109,5 @@ Love coffee it is a website for a startup coffee shop, offering basic informatio
 ## Deployment
 * Currently the website it is stored in Github and it uses Github pages for making it available to general public
 * The website address it is: [Love Coffee](https://acristiancsiki.github.io/HTML-CSS)
+* The website can also be hosted on an AWS S3 bucket since it is being built with static content
+* For major improvements of Love Coffee website, an organization might choose to host the website in a personalized hosting environment or use Github Enterprise for better control
