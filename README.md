@@ -98,3 +98,6 @@ Love coffee it is a website for a startup coffee shop, offering basic informatio
 
     - Success page HTML
 ![Love Coffee success page HTML validation confirmation](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/success-page-validator.PNG)  
+
+    - 404 page HTML
+![Love Coffee 404 page HTML validation confirmation](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/fourzerofour-page-validator.PNG)  
