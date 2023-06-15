@@ -88,10 +88,13 @@ Love coffee it is a website for a startup coffee shop, offering basic informatio
 ![Love Coffee clean css validation confirmation](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/css-validator.PNG)
 
     - Home page HTML
-![Love Coffee clean css validation confirmation](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/home-validator.PNG)   
+![Love Coffee home page HTML validation confirmation](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/home-validator.PNG)   
 
     - Menu page HTML
-![Love Coffee clean css validation confirmation](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/menu-page-validator.PNG)  
+![Love Coffee menu page HTML validation confirmation](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/menu-page-validator.PNG)  
 
     - Contact page HTML
-![Love Coffee clean css validation confirmation](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/contact-page-validator.PNG)  
+![Love Coffee contact page HTML validation confirmation](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/contact-page-validator.PNG)
+
+    - Success page HTML
+![Love Coffee success page HTML validation confirmation](https://github.com/acristiancsiki/HTML-CSS/blob/main/assets/images/success-page-validator.PNG)  
