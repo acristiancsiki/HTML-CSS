@@ -111,3 +111,26 @@ Love coffee it is a website for a startup coffee shop, offering basic informatio
 * The website address it is: [Love Coffee](https://acristiancsiki.github.io/HTML-CSS)
 * The website can also be hosted on an AWS S3 bucket since it is being built with static content
 * For major improvements of Love Coffee website, an organization might choose to host the website in a personalized hosting environment or use Github Enterprise for better control
+
+## Credits
+* CodeInstitute
+    - Part of the website structure, such as menu and footer design code were taken from the [Love Running](https://github.com/lexach91/love-running-project)
+
+* Codepen.io
+    - Part of the menu page structure, such as elements design were taken from [Codepen.io Menu](https://codepen.io/sanketbodke/pen/bGRVKYr)
+
+* W3Schools
+    - Part of the contact page structure, such as elements design were taken from [W3Schools Contact Form](https://www.w3schools.com/howto/howto_css_contact_form.asp)
+
+* Media
+    - Licensed showcase video was purchased from [ShutterStock](https://www.shutterstock.com/video/clip-1086348824-cup-fresh-aromatic-coffee-crema-top-view)
+    - Free menu graphics were taken from Unsplash.com as:
+        - Americano image designer: Gerson Cifuentes [Unsplash americano image](https://unsplash.com/photos/JNhaaPEz3FY)
+        - Cappuccino image designer: Harris Vo [Unsplash cappuccino image](https://unsplash.com/photos/JpQGEArmG0I)
+        - Latte image designer: Harris Vo [Unsplash latte image](https://unsplash.com/photos/hmLY7GiNFyE)
+        - Macchiato image designer: Daria Rudyk [Unsplash macchiato image](https://unsplash.com/photos/TvXpVcgi9nw)
+        - Espresso image designer: Nathan Dumlao [Unsplash espresso image](https://unsplash.com/photos/QxL6R8_bQ_4)
+        - Cortado image designer: the blowup [Unsplash cortado image](https://unsplash.com/photos/DxxdnBoHG7M)
+
+* Mentor
+    - Last but not least, tremendous appreciation to CodeInstitute mentor Aleksei Konovalov [Aleksei Konovalov Git page](https://github.com/lexach91) for all his dedication to guide and coach me during the development, testing and deployment process.
